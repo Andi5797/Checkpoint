@@ -1,5 +1,6 @@
 # Checkpoint
 Error `Partition /opt has: XXXX of free space and it's lower than required: 2000 MB`
+
 Connect to Expert mode
 ```
 df -h
